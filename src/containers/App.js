@@ -10,7 +10,7 @@ import './App.css'
 
 // create state
 class App extends Component {
-    constructor() {
+    constructor () {
         super()
         this.state = {
             robots: [],
